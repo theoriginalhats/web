@@ -1,5 +1,5 @@
 <?php
-  include './components/Header.php';
+  include './components/Headers.php';
   include './components/Hero.php';
 
   echo '<div class="min-h-screen bg-black text-white overflow-hidden">';
