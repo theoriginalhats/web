@@ -1,5 +1,5 @@
 <?php
-include './components/Header.php';
+include './components/Headers.php';
 include './components/Hero.php';
 ?>
 
